@@ -21,10 +21,10 @@ Make changes or test locally using your preferred development environment.
 
 ```bash
 # 1. Clone the repository
-git clone <https://github.com/Anju-Narnolia/HealthPal.git>
+git clone https://github.com/Anju-Narnolia/HealthPal.git
 
 # 2. Navigate into the project directory
-cd <YOUR_PROJECT_NAME>
+cd HealthPal/
 
 # 3. Install dependencies
 npm install
@@ -63,8 +63,8 @@ Simply connect your GitHub repository and follow the platform's deployment steps
 
 This project contributes to the following **UN Sustainable Development Goals**:
 
-- ✅ [Goal Name, e.g., Quality Education (SDG 4)]
-- ✅ [Goal Name, e.g., Good Health and Well-being (SDG 3)]
+- ✅ A unified AI-driven health platform built on Google Cloud, Vertex AI,and Firebase.
+- ✅  Key features: Symptom checker, mental health chatbot, and smart nutrition planner.
 
 *(Edit this section to match your project's goals)*
 
