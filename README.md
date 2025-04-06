@@ -6,7 +6,7 @@
 
 This project was built as part of the **Google Developer Student Clubs (GDSC) Solution Challenge 2025**, focused on solving real-world problems aligned with the UN's Sustainable Development Goals (SDGs).
 
-🚀 **Live Demo**: [View Project](https://lovable.dev/projects/5e9c2dc3-214a-4d9f-a9f2-68b838b9005e)
+🚀 **Live Demo**: [View Project](https://healthpal-ai.netlify.app/)
 
 ---
 
@@ -21,7 +21,7 @@ Make changes or test locally using your preferred development environment.
 
 ```bash
 # 1. Clone the repository
-git clone <YOUR_GIT_URL>
+git clone <https://github.com/Anju-Narnolia/HealthPal.git>
 
 # 2. Navigate into the project directory
 cd <YOUR_PROJECT_NAME>
